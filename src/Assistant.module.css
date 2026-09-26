@@ -93,6 +93,7 @@
   color: #ffffff;
 } 
 @media (max-width:500px){
+  
   .container{
     padding: 1.5rem 2rem;
     max-width: 200px;
